@@ -1,4 +1,4 @@
-package br.com.industrack.indus_track_api;
+package br.com.industrack.indus_track_api.model;
 
 import jakarta.persistence.*;
 

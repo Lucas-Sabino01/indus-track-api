@@ -1,5 +1,7 @@
-package br.com.industrack.indus_track_api;
+package br.com.industrack.indus_track_api.controller;
 
+import br.com.industrack.indus_track_api.model.Ativo;
+import br.com.industrack.indus_track_api.repository.AtivoRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
